@@ -1,0 +1,18 @@
+Ejercicio de POO 1
+
+Programa las siguientes clases son sus respectivos atributos:
+
+    Carro Eléctrico. Un carro eléctrico tiene marca, nombre, modelo(año), velocidad máxima, motor eléctrico
+    Carro Normal. Un carro manual tiene marca, nombre, modelo(año), velocidad máxima y motor normal
+
+Las dos clases anteriores tienen motores que se crean cuando creas el vehículo (constructor). Los dos motores son dos clases.
+Los atributos de las clases motor son:
+
+    Motor eléctrico. Un motor eléctrico tiene potencia en hp’s, número de baterías.
+    Motor normal. Un motor normal tiene potencia en hp’s, número de cilíndros.
+
+Si encuentras que alguna clase comparte atributos con otra, entonces utiliza la relación de herencia para evitar repeticiones
+
+Todos los atributos deben tener setters y getters. Debes crear al menos una instancia de carro eléctrico y una de carro normal.
+
+Todas las clases deben tener un constructor por default y un constructor con parámetros.
