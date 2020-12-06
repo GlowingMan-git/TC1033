@@ -1,0 +1,32 @@
+COVID-19 acelera el comercio electrónico y pagos sin contacto en América Latina.
+
+La propagación del nuevo coronavirus trae consigo desafíos en todos los niveles; desde la capacidad de respuesta de
+los sistemas de salud y el involucramiento social para acompañar las disposiciones, hasta el alcance de las estrategias 
+para proteger a los más vulnerables y mitigar los efectos negativos en la economía. Así mismo, diversos grupos de ciudadanos proactivos  
+se organizan para aportar soluciones a las problemáticas más urgentes del contexto actual. Si bien es tiempo de incertidumbre y solidaridad,
+también lo es de ingenio y creatividad. Por ello, buscamos responder de forma innovadora a los desafíos que nos trae la pandemia.  
+En nuestro caso nos enfocaremos en aportar soluciones para mejorar la economía para lo cual se ha decidido aportar al 
+COMERCIO ELECTRONICO y a los PAGOS SIN CONTACTO. Nuestro proyecto integrador pretende desarrollar un sistema de comercio electrónico. 
+Sabemos que en estos tiempos de pandemia todos los comercios deben migrar a la modalidad en línea por lo que para este proyecto  
+puedes elegir la venta de cualquier conjunto de productos (dispositivos electrónicos, libros, artículos de primera necesidad, 
+artículos perecederos, etc.). 
+
+Los requerimientos mínimos del sistema están divididos en 2 partes:
+a) Funcionales
+b) De codificación (programación)
+
+Los requisitos funcionales de nuestro sistema de venta de productos son
+a) Listar todos los productos disponibles de tu tiendita.
+    a. Hay más de un producto (al menos 10 productos)
+b) Agregar productos para su compra (similar a un carrito de compras). No puedes quitar productos una vez seleccionados.   
+    a. Se puede agregar 1 o más productos para su compra (no hay límite)
+c) Mostrar el total en pesos de los productos agregados para su compra. (Solo el total, no los productos.)
+d) Opción para comprar los productos seleccionados
+    a. Sólo es un mensaje que indica que se han comprado los artículos
+
+Los requisitos de codificación (programación) son:
+b) Los productos deben ser clases (las que tengan atributos iguales deberan usar herencia)
+c) Utiliza al menos una relación de composición, asociación, agregación y herencia
+d) Agrega los setters y getters correspondientes a cada clase
+e) Todas tus clases deben tener al menos un constructor por default y uno con parametros
+e) Debe haber al menos una instancia de cada clase. Cada instancia se debe de probar con un metodo que incluya.
